@@ -1,0 +1,5 @@
+org\lucas\furiousvoar\config\VoarConfig.class
+org\lucas\furiousvoar\FuriousVoar.class
+org\lucas\furiousvoar\events\PlayerJoin.class
+org\lucas\furiousvoar\commands\ReloadPluginCommand.class
+org\lucas\furiousvoar\config\Config.class

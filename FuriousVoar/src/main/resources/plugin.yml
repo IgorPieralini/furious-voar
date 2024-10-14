@@ -1,0 +1,10 @@
+name: FuriousVoar
+version: '${project.version}'
+main: org.lucas.furiousvoar.FuriousVoar
+description: Plugin para a Rede Furious, voar no vip
+commands:
+  rlvoar:
+    description: Recarregar o arquivo do yml do voar
+    permission-message: "§cVocê não tem permissão para usar o comando '/rlvoar'."
+    aliases: [ rlvoar, rlv, reloadvoar ]
+
